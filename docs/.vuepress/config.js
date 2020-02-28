@@ -1,7 +1,7 @@
 module.exports = {
   plugins: {
     sitemap: {
-      hostname: "https://workshop-template.netlify.com"
+      hostname: "https://workshop-template-vuepress.netlify.com"
     }
   },
   locales: {

@@ -15,11 +15,11 @@
 
 > workshop-template to learn concepts, API and best practices
 
-### 🏠 [Homepage](https://workshop-template.netlify.com/)
+### 🏠 [Homepage](https://workshop-template-vuepress.netlify.com/)
 
 ## Usage
 
-Just go to https://workshop-template.netlify.com/
+Just go to https://workshop-template-vuepress.netlify.com/
 
 ## Author
 
