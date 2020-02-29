@@ -17,6 +17,8 @@
 
 ### 🏠 [Homepage](https://workshop-template-vuepress.netlify.com/)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Slashgear/workshop-template.svg)](https://greenkeeper.io/)
+
 ## Usage
 
 Just go to https://workshop-template-vuepress.netlify.com/
