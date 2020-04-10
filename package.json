@@ -19,7 +19,7 @@
     "lint": "yarn prettier --list-different 'packages/**/*.{js,md}' 'docs/**/*.{js,md}'"
   },
   "devDependencies": {
-    "husky": "4.2.3",
+    "husky": "4.2.5",
     "prettier": "1.19.1",
     "pretty-quick": "^2.0.0",
     "vuepress": "1.3.1",
